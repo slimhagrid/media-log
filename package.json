@@ -1,0 +1,6 @@
+{
+  "name": "medialog-demo",
+  "version": "0.1.0",
+  "description": "Static, browser-only demo of MEDIALOG. No server, no build step — deploy the public/ folder as-is.",
+  "license": "MIT"
+}
