@@ -1,0 +1,10 @@
+{
+  "name": "medialog",
+  "version": "0.2.0",
+  "description": "Local media logging with contribution grids and an in-app terminal.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
+}
